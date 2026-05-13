@@ -37,4 +37,4 @@ data.xlsx
 
 ### 3. Итоги аналитики
  - Отчёт с анализом и визуализацией: `report.pdf`
- - Jupyter notebook с кодом analysis.ipynb
+ - Jupyter Notebook с кодом: `analysis.ipynb`
